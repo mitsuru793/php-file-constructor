@@ -1,6 +1,6 @@
 {
     "name": "mitsuru793/file-constructor",
-    "description": "",
+    "description": "Make file and directory from php array.",
     "type": "library",
     "scripts": {
         "test": "phpunit --color=always",
