@@ -2,6 +2,20 @@
     "name": "mitsuru793/file-constructor",
     "description": "Make file and directory from php array.",
     "type": "library",
+    "homepage": "https://github.com/mitsuru793/php-file-constructor",
+    "license": "MIT",
+    "keywords": [
+        "file",
+        "directory",
+        "file-system"
+    ],
+    "authors": [
+        {
+            "name": "mitsuru793",
+            "email": "mitsuru793@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "scripts": {
         "test": "phpunit --color=always",
         "analyze": "phpstan analyze ./src"
